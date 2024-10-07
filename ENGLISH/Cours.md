@@ -1,3 +1,8 @@
+---
+Author : Mathys DOMERGUE
+---
+
+# <center> English lesson
 
 Who am i ?
 
@@ -18,7 +23,6 @@ I'm tired.
 I'm from the north of the Gard
 
 I'm a big fan of animes
-
 
 1. are
 2. i'm  must
