@@ -3,7 +3,7 @@ Author : Mathys DOEMRGUE
 Copyright: All Right Reserved
 ---
 
-# Cours CEJM
+# <center> Cours CEJM
 
 micro-économie : relation client, patron-employé.
 
@@ -31,7 +31,7 @@ convention collective : accord
 
 Schumpeter la destruction créatrice
 
-![Pyramide-de-maslow](image.png)
+![Pyramide-de-maslow](img/image.png)
 
 4 styles de management :
 
