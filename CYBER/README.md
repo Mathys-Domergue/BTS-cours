@@ -1,6 +1,8 @@
 ---
-Author: Mathys DOMERGUE
+Author : Noha REGNIER, Ferhat ATES, Mathys DOMERGUE
+Copyright: All Right Reserved
 ---
+
 # <center> Cyber
 
 Site utile :
