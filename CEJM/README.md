@@ -178,6 +178,8 @@ Schumpter :
 
 3 fonctions de l'État :
 
-- Régulation -> corriger les desesuilibres économiques en regulant l'activité
+- Régulation -> corriger les desequilibres économiques en regulant l'activité
 - Allocation -> corriger les dysfonctionnement pour fluidifier les marchés
 - Redistribution -> corriger les inegalités selon les critères de justice sociale
+
+
